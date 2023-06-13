@@ -18,4 +18,10 @@
         "gulp": "^4.0.2",
         "gulp-imagemin": "^7.1.0"
     }
+	
+	 },
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-imagemin": "^7.1.0"
+    }
 }
